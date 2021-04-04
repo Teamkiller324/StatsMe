@@ -9,6 +9,7 @@ Work in progress at the moment, pre-beta expected around mid april-may.
 
 # Features:
 Tracks kills. (Obviously)
+Tons of commands to change how many points the player gets rewarded/subtracted and more.
 (more to be added here since it's on early stages.
 
 # Features yet to be added:
