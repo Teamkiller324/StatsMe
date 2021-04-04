@@ -6,3 +6,10 @@ Early pre-beta testing screenshot:
 A plugin originally called TF2Stats but then renamed to SourceStats and decided to support multiple games. This is an alternative to HLStats: CE and GameME (if not maybe better in some ways)
 
 Work in progress at the moment, pre-beta expected around mid april-may.
+
+# Features:
+Tracks kills. (Obviously)
+(more to be added here since it's on early stages.
+
+# Features yet to be added:
+Achievements. (Earn achievements by doing the objective such as 25 headshots or 5 airshots, etc).
