@@ -7,6 +7,8 @@ A plugin originally called TF2Stats but then renamed to SourceStats (then to Sta
 
 Work in progress at the moment, pre-beta expected around mid april-may.
 
+Wanna be a beta-tester? contact me! (https://steamcommunity.com/id/Teamkiller324)
+
 # Features:
 Tracks kills. (Obviously)
 
