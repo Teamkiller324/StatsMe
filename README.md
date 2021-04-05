@@ -23,9 +23,7 @@ Read from keyvalue config file reading weaponname, index of the weapon, etc to p
 
 # Currently games supported :
 Team Fortress 2.
-
 Counter-Strike: Source.
-
 Counter-Strike: Global Offensive.
 
 # Games yet to be supported: (Will be added later on)
