@@ -16,5 +16,7 @@ Tons of commands to change how many points the player gets rewarded/subtracted a
 # Features yet to be added:
 Achievements. (Earn achievements by doing the objective such as 25 headshots or 5 airshots, etc).
 
+Multiple-kill award (Get awarded extra points for doing example 25 kill streaks or 5 killstreaks, etc).
+
 # Possible Features:
 Read from keyvalue config file reading weaponname, index of the weapon, etc to possibly avoid needing to update plugin just for specific weapon updates for a game.
