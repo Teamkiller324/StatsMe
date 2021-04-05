@@ -20,6 +20,8 @@ Achievements. (Earn achievements by doing the objective such as 25 headshots or 
 
 Multiple-kill award (Get awarded extra points for doing example 25 kill streaks or 5 killstreaks, etc).
 
+Translation Support!!
+
 # Possible Features:
 Read from keyvalue config file reading weaponname, index of the weapon, etc to possibly avoid needing to update plugin just for specific updates for a game.
 
