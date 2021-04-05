@@ -19,7 +19,7 @@ Achievements. (Earn achievements by doing the objective such as 25 headshots or 
 Multiple-kill award (Get awarded extra points for doing example 25 kill streaks or 5 killstreaks, etc).
 
 # Possible Features:
-Read from keyvalue config file reading weaponname, index of the weapon, etc to possibly avoid needing to update plugin just for specific weapon updates for a game.
+Read from keyvalue config file reading weaponname, index of the weapon, etc to possibly avoid needing to update plugin just for specific updates for a game.
 
 # Currently games supported :
 Team Fortress 2.
