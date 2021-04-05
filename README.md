@@ -29,6 +29,6 @@ Counter-Strike: Global Offensive.
 # Games yet to be supported: (Will be added later on)
 Left 4 Dead (?).
 Left 4 Dead 2.
-Half-Life 2: Deathmatch (?).
+\n Half-Life 2: Deathmatch (?).
 Day & Defeat: Source (?).
 and more.
