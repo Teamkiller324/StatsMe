@@ -22,6 +22,10 @@ Multiple-kill award (Get awarded extra points for doing example 25 kill streaks 
 
 Translation Support!!
 
+Plugin natives (Natives can be used on other plugins for specific checks or such.
+
+Plugin forwards (Forwards is fired as soon the event occured, example: stats command was fired). (WIP).
+
 # Possible Features:
 Read from keyvalue config file reading weaponname, index of the weapon, etc to possibly avoid needing to update plugin just for specific updates for a game.
 
