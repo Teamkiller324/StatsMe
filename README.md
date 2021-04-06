@@ -37,12 +37,16 @@ Counter-Strike: Source.
 Counter-Strike: Global Offensive.
 
 # Games yet to be supported: (Will be added later on)
-Left 4 Dead (?).
+Left 4 Dead.
 
 Left 4 Dead 2.
 
-Half-Life 2: Deathmatch (?).
+Half-Life 2: Deathmatch.
 
-Day & Defeat: Source (?).
+Day & Defeat: Source.
+
+Zombie Panic: Source
+
+Contagion.
 
 and many more.
