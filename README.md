@@ -15,6 +15,8 @@ Tracks kills. (Obviously)
 Tons of commands to change how many points the player gets rewarded/subtracted and more.
 (more to be added here since it's on early stages.
 
+Plugin natives (Natives can be used on other plugins for specific checks or such.
+
 # Features yet to be added: (Will be added later on)
 Achievements. (Earn achievements by doing the objective such as 25 headshots or 5 airshots, etc).
 
@@ -22,9 +24,7 @@ Multiple-kill award (Get awarded extra points for doing example 25 kill streaks 
 
 Translation Support!!
 
-Plugin natives (Natives can be used on other plugins for specific checks or such.
-
-Plugin forwards (Forwards is fired as soon the event occured, example: stats command was fired would be StatsMe_OnClientStatsCommand). (WIP).
+Plugin forwards (Forwards is fired as soon the event occured, example: stats command was fired would be StatsMe_OnClientStatsCommand).
 
 # Possible Features:
 Read from keyvalue config file reading weaponname, index of the weapon, etc to possibly avoid needing to update plugin just for specific updates for a game.
