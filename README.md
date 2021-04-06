@@ -2,6 +2,10 @@ Early pre-alpha testing screenshot:
 
 ![Screenshot_3](https://user-images.githubusercontent.com/49116354/113496802-88576e00-94fd-11eb-86f1-2222986da34d.jpg)
 
+Later pre-alpha version testing screenshot:
+
+![Screenshot_5](https://user-images.githubusercontent.com/49116354/113702827-53ecd900-96da-11eb-88f5-ad494f1dc9fe.jpg)
+
 # StatsMe
 A plugin originally called TF2Stats but then renamed to SourceStats (then to StatsMe) and decided to support multiple games. This is an alternative to HLStats: CE and GameMe
 
