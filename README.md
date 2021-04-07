@@ -18,6 +18,10 @@ Work in progress at the moment, pre-beta expected around mid april-may.
 
 Wanna be a beta-tester and help out and improve the project? contact me! (https://steamcommunity.com/id/Teamkiller324)
 
+# Webpanel
+
+Not being worked on yet, Unfortunately i don't know much php enough to begin making a webpanel, help is appreciated.
+
 # Features:
 Tracks kills. (Obviously)
 
