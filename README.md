@@ -33,7 +33,7 @@ Plugin forwards (Forwards is fired as soon the event occured, example: stats com
 # Possible Features:
 Read from keyvalue config file reading weaponname, index of the weapon, etc to possibly avoid needing to update plugin just for specific updates for a game.
 
-# Currently games supported :
+# Current games supported :
 Team Fortress 2.
 
 Counter-Strike: Source.
