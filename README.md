@@ -6,6 +6,11 @@ Later pre-alpha version testing screenshot (remade the kill log message):
 
 ![Screenshot_5](https://user-images.githubusercontent.com/49116354/113702827-53ecd900-96da-11eb-88f5-ad494f1dc9fe.jpg)
 
+pre-alpha connect & disconnect messages:
+
+![Screenshot_6](https://user-images.githubusercontent.com/49116354/113900896-97c10a80-97ce-11eb-9294-d3b7c6b4915a.jpg)
+
+
 # StatsMe
 A plugin originally called TF2Stats but then renamed to SourceStats (then to StatsMe) and decided to support multiple games. This is an alternative to HLStats: CE and GameMe
 
