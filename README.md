@@ -12,7 +12,7 @@ pre-alpha connect & disconnect messages:
 
 
 # StatsMe
-A plugin originally called TF2Stats but then renamed to SourceStats (then to StatsMe) and decided to support multiple games. This is an alternative to HLStats: CE and GameMe
+A plugin originally called TF2Stats but then renamed to SourceStats (then to StatsMe) and decided to support multiple games. This is an alternative to HLStats: CE and GameMe. Featuring tons of natives & forwards to use & choose from.
 
 Work in progress at the moment, pre-beta expected around mid april-may.
 
