@@ -30,7 +30,7 @@ Tons of commands to change how many points the player gets rewarded/subtracted a
 
 Plugin natives (Natives can be used on other plugins for specific checks or such.
 
-Plugin forwards (Forwards is fired as soon the event occured, example: stats command was fired would be StatsMe_OnClientStatsCommand).
+Plugin forwards (Forwards is fired as soon an event occured, example: stats command was fired would be StatsMe_OnClientStatsCommand).
 
 Achievements. (Earn achievements by doing the objective such as 25 headshots or 5 airshots, etc).
 
