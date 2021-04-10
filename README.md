@@ -50,6 +50,8 @@ Counter-Strike: Source.
 
 Counter-Strike: Global Offensive.
 
+Counter-Strike: Promod
+
 # Games yet to be supported: (Will be added later on)
 Left 4 Dead.
 
