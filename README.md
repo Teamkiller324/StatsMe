@@ -50,7 +50,9 @@ Counter-Strike: Source.
 
 Counter-Strike: Global Offensive.
 
-Counter-Strike: Promod
+Counter-Strike: Promod (Needs proper testing).
+
+Team Fortress 2: Classic.
 
 # Games yet to be supported: (Will be added later on)
 Left 4 Dead.
