@@ -72,3 +72,7 @@ and many more.
 # Progress:
 
 Team Fortress 2 - Finished, testing needed.
+Team Fortress 2: Classic - Nearly finished, needs more testing.
+Counter-Strike: Source - Somewhat finished, needs more testing.
+Counter-Strike: Global Offensive - Somewhat finished, needs more testing.
+Counter-Strike: Promod - Somewhat finished, needs more testing.
