@@ -18,6 +18,8 @@ Work in progress at the moment, pre-beta expected around mid april-may.
 
 Wanna be a beta-tester and help out and improve the project? contact me! (https://steamcommunity.com/id/Teamkiller324)
 
+(https://github.com/Teamkiller324/StatsMe/blob/main/Natives.md)
+
 # Webpanel
 
 Not being worked on yet, Unfortunately i don't know much php enough to begin making a webpanel, help is appreciated.
