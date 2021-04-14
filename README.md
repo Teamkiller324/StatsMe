@@ -71,4 +71,4 @@ and many more.
 
 # Progress:
 
-Team Fortress 2 - Nearly finished, needs more testing & polishing. Otherwise pretty much playable state.
+Team Fortress 2 - Finished, testing needed.
