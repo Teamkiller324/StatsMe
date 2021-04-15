@@ -83,7 +83,7 @@ and many more.
 
 Team Fortress 2 - Finished, testing needed.
 
-Team Fortress 2: Classic - Nearly finished, needs more testing.
+Team Fortress 2: Classic - Finished, testing needed.
 
 Counter-Strike: Source - Somewhat finished, needs more testing.
 
