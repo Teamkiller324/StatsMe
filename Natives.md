@@ -1,3 +1,9 @@
+StatsMe_SetSession
+  - Set an integer value on a session type.
+
+StatsMe_GetSession
+  - Returns an integer value from a session type.
+
 StatsMe_GetMapType
   - Returns in StatsMe_MapType_* format.
 
