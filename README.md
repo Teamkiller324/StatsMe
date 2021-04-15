@@ -16,6 +16,8 @@ A plugin originally called TF2Stats but then renamed to SourceStats (then to Sta
 
 Work in progress at the moment, pre-beta expected around mid april-may.
 
+Current Version: Pre-Alpha 1.0 (0.01a)
+
 Wanna be a beta-tester and help out and improve the project? contact me! (https://steamcommunity.com/id/Teamkiller324)
 
 Sneak peek:
