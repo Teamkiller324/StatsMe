@@ -46,6 +46,8 @@ Multiple-kill award (Get awarded extra points for doing example 25 kill streaks 
 
 Translation Support!!
 
+Mvm (Mann vs Machine) Support for Team Fortress 2.
+
 # Possible Features:
 Read from keyvalue config file reading weaponname, index of the weapon, etc to possibly avoid needing to update plugin just for specific updates for a game.
 
