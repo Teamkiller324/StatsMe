@@ -18,7 +18,7 @@ Work in progress at the moment, pre-beta expected around mid april-may.
 
 Current Version: Pre-Alpha 1.0 (0.01a)
 
-Wanna be a beta-tester and help out and improve the project? contact me! (https://steamcommunity.com/id/Teamkiller324)
+Note: This plugin is currently set on hold due to it needing a complete rewrite from scratch.
 
 Sneak peek:
 
