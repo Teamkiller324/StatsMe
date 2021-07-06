@@ -18,7 +18,7 @@ Work in progress at the moment, pre-beta expected around mid april-may.
 
 Current Version: Pre-Alpha 1.0 (0.01a)
 
-Note: This plugin is currently set on hold due to it needing a complete rewrite from scratch.
+Note: This plugin is at the very moment being rewritten from scratch under a new name Xstats
 
 Sneak peek:
 
